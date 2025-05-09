@@ -1,0 +1,12 @@
+configuration {
+  display-drun: "Applications";
+  drun-display-format: "{icon} {name}";
+  font: "JetBrainsMono Nerd Font 16";
+  modi: "window,run,drun";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+
+//@theme "/dev/null"
+
+@theme "/home/kanzas-progger/.local/share/rofi/themes/rounded-nord-dark.rasi"
